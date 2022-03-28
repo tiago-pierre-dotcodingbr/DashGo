@@ -9,12 +9,16 @@
   <a href="https://github.com/tiagopierre/DashGo/edit/main/README.md#-licen%C3%A7a">Licença</a>
 </p>
 
+
 <img src="https://github.com/tiagopierre/DashGo/blob/main/screencapture/screencapture-localhost-3000-dashboard-2022-03-28-15_28_08.png?raw=true" alt="screenshot"/>
+
 
 
 ## 💻 Projeto
 
 Dashboard criado durante as aulas do Ignite da Rocketseat, com intuito de aprender novas tecnologias e praticar os fundamentos do NextJs.
+> Status do Projeto: :heavy_check_mark: (_concluído_)
+
 
 ## 🚀 Tecnologias
 
