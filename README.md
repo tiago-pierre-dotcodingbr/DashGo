@@ -4,8 +4,9 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="https://github.com/tiagopierre/DashGo/edit/main/README.md#%EF%B8%8F-como-rodar-a-aplica%C3%A7%C3%A3o">Rodar Aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tiagopierre/DashGo/edit/main/README.md#-bibliotecas">Bibliotecas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/tiagopierre/DashGo/edit/main/README.md#-licen%C3%A7a">Licença</a>
 </p>
 
 <img src="https://github.com/tiagopierre/DashGo/blob/main/screencapture/screencapture-localhost-3000-dashboard-2022-03-28-15_28_08.png?raw=true" alt="screenshot"/>
@@ -52,11 +53,11 @@ $ yarn dev
 - [Axios](https://axios-http.com/)
 - [Yup](https://www.npmjs.com/package/yup)
 - [Faker](https://www.npmjs.com/package/faker)
-- [Mirage](hhttps://miragejs.com/)
+- [Mirage](https://miragejs.com/)
 
-## License
+## 📝 Licença
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 
 Made with
