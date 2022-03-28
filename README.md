@@ -20,41 +20,39 @@ Dashboard criado durante as aulas do Ignite da Rocketseat, com intuito de aprend
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NextJs
+- TypeScript
 - HTML
 - CSS
-- JavaScript
 
 ## ▶️ Como rodar a aplicação 
 
 Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
 ```bash
-# Clone this project
+# Clonar este projeto
 $ git clone https://github.com/tiagopierre/DashGo.git
 
-# Access
+# Acessar a pasta
 $ cd dashgo
 
-# Install dependencies
+# Instalar as dependências 
 $ yarn
 
-# Run the project
+# Rodar o projeto
 $ yarn dev
 
-# The server will initialize in the <http://localhost:3000>
+# O servidor irá inicializar no <http://localhost:3000>
 ```
 
-<h2>Technologies used in application</h2>
+## 📁 Bibliotecas
 
-<ul>
-  <li>Prismic</li>
-  <li>NextJS</li>
-  <li>ReactJS</li>
-  <li>TypeScript</li>
-  <li>HTML5</li>
-  <li>Sass</li>
-  
-</ul>
+- [ChakraUi](https://chakra-ui.com/)
+- [ApexCharts](https://apexcharts.com/)
+- [Axios](https://axios-http.com/) 
+- [Axios](https://axios-http.com/)
+- [Yup](https://www.npmjs.com/package/yup)
+- [Faker](https://www.npmjs.com/package/faker)
+- [Mirage](hhttps://miragejs.com/)
 
 ## License
 
