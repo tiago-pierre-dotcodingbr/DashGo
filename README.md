@@ -58,6 +58,7 @@ $ yarn dev
 - [Yup](https://www.npmjs.com/package/yup)
 - [Faker](https://www.npmjs.com/package/faker)
 - [Mirage](https://miragejs.com/)
+- [ReactQuery](https://react-query.tanstack.com/)
 
 ## 📝 Licença
 
